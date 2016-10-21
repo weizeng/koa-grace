@@ -27,7 +27,7 @@ And then you can visit the DEMO at [http://127.0.0.1:3000](http://127.0.0.1:3000
 
 ## koa-grace v2
 
-[koa-grace 2.x](https://github.com/xiongwilee/koa-grace/tree/v2.x)(for koa 2.x) is ready! 
+[koa-grace 2.x](https://github.com/xiongwilee/koa-grace/tree/v2.x)(for koa 2.x) is in place! 
 
 It will be released immediately after koa v2 published (**JUST WAITING FOR NODEJS 7.0.0**).
 
